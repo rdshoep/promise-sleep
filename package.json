@@ -1,0 +1,18 @@
+{
+  "name": "sleep.promise",
+  "version": "1.0.0",
+  "description": "sleep module for promise, wait some times then next",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "sleep",
+    "promise"
+  ],
+  "author": "Rdshoep",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
