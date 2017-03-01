@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdshoep/promise-sleep.git"
+  },
   "keywords": [
     "sleep",
     "promise"

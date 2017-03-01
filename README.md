@@ -2,7 +2,9 @@
 sleep module for promise
 
 ## Install
+```Nodejs
 npm install sleep.promise
+```
 
 ## Usage
 
